@@ -62,4 +62,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 Trilogy Education Services © 2019. All Rights Reserved.
 
-## Observations
+## Take Aways
+This assignment was a good practice on how to build querys with sql and how to use them in jupyter notebook
+
+To the grader: I used a config.py file to build the engine for the bonus section of the assignment. To get it to work you will also need to have this file made as well using the default username and password. Please leave a comment on the assignment if you are unable to make it work and I'll message back with the database url.
